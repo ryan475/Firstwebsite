@@ -1,0 +1,69 @@
+ body{
+               font-fanily: sans-serif;
+               color: #777777;
+               line-height: 26px;
+      }
+ .red-color{
+               color: gold;
+           }
+ .half-width{
+               width: 50%
+               float: left;
+            }
+ .side-img{
+               width: 50%;
+               padding: 20%;
+           } 
+ .primary-btn{
+               color: black;
+               background-color: yellow;
+               padding: 5px 15px;
+               border-radius: 15px;
+               text-decoration: none;
+              }  
+ h1{
+               font-size: 2em;
+   } 
+ container{
+               padding-left: 5%;
+               display: inline-block;               
+          }
+          
+ .experiences{
+               margin: 30px;
+               padding: 30px;
+               background-color:rgb(238,215,255);
+               border-radius: 20px;
+ 
+             }  
+             
+ experience-items{
+                   padding: 20px;
+                   border-left: 1px solid rgba(137,130,147,.2) ;
+                   
+                 } 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+            
+ 
